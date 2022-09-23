@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "My Protected Folder" 
+AuthUserFile /var/www/html/design/gav/admin/.htpasswd
+require valid-user

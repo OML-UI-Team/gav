@@ -138,6 +138,86 @@
             </div> 
         </div> 
 
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner8.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner9.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner10.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner11.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner12.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner13.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner14.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner15.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-9">
+                        <div class="slider-cont"></div>
+                    </div>
+                </div> 
+            </div> 
+        </div>
+
 	   
         <!-- single slider -->
         <!-- single slider -->
@@ -227,6 +307,19 @@
     </section>
     
     <!--====== CATEGORY PART ENDS ======-->
+   
+<section class="video_sec">
+   <div class="container bg-color">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/5rA-hwq_WWs?rel=0&showinfo=0&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+   </div>
+    <!--<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">-->
+    <!--    <source src="video/gav-presentation.mp4" type="video/mp4">-->
+    <!--</video>-->
+</section> 
    
     <!--====== ABOUT PART START ======-->
     <section id="about-part" class="pt-65">
@@ -358,6 +451,5 @@
             </div>
         </div>
     </section>
-    <?php include('components/footer.php'); ?>
-    
+    <?php include('components/footer.php'); ?>    
     

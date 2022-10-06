@@ -55,25 +55,7 @@
                             <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
                             <li data-target="#carouselExampleIndicators" data-slide-to="3" class=""></li>
                             <li data-target="#carouselExampleIndicators" data-slide-to="4" class=""></li>
-                            <!--<li data-target="#carouselExampleIndicators" data-slide-to="3" class=""></li>-->
-                            <!--<li data-target="#carouselExampleIndicators" data-slide-to="4" class=""></li>-->
-                            <!--<li data-target="#carouselExampleIndicators" data-slide-to="5" class=""></li>-->
-                            <!--<li data-target="#carouselExampleIndicators" data-slide-to="6" class=""></li>-->
-                            <!--<li data-target="#carouselExampleIndicators" data-slide-to="7" class=""></li>-->
-                            <!--<li data-target="#carouselExampleIndicators" data-slide-to="8" class=""></li>-->
-                            <!-- <li data-target="#carouselExampleIndicators" data-slide-to="9" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="10" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="11" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="12" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="13" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="14" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="15" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="16" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="17" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="18" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="19" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="20" class=""></li>
-                            <li data-target="#carouselExampleIndicators" data-slide-to="21" class=""></li> -->
+                            <li data-target="#carouselExampleIndicators" data-slide-to="5" class=""></li>
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
@@ -167,6 +149,16 @@
                                    <div class="col-12">
                                        <div class="image-box">
                                            <img src="images/slider/slider5.jpg" alt="Child">
+                                       </div>
+                                   </div>
+                      
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                               <div class="row">
+                                   <div class="col-12">
+                                       <div class="image-box">
+                                           <img src="images/slider/slider6.jpg" alt="Child">
                                        </div>
                                    </div>
                       

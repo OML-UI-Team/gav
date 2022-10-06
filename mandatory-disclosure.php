@@ -91,7 +91,7 @@
                         <td>"UP GOVERNMENT NOC
                             UP GOVERNMENT NOC 2"
                         </td>
-                        <td>-</td>
+                        <td><a class="mail-to-link" href="pdf/UP GOVERNMENT NOC UP GOVERNMENT NOC 2.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
@@ -397,9 +397,9 @@
                     </tr>
                     <tr>
                         <th scope="row">7</th>
-                        <td>"LINK OF YOUTUBE VIDEO OF THE INSPECTION
-OF SCHOOLCOVERING THE INFRASTRUCTURE
-OF THE SCHOOL"</td>
+                        <td>
+                            <a class="mail-to-link"  href="https://www.youtube.com/watch?v=5rA-hwq_WWs" target="_blank">Gyan Anant Vidyalaya | Mobius Foundation</a><!--"LINK OF YOUTUBE VIDEO OF THE INSPECTION OF SCHOOLCOVERING THE INFRASTRUCTURE
+OF THE SCHOOL"--></td>
                         <td>FACEBOOK LINK IS NOT APPROPRIATE KINDLY CHECK </td>
                     </tr>
                 </tbody>

@@ -461,6 +461,7 @@
 
  
 /* small mobile :320px. */
+
 @media (min-width: 576px) and (max-width: 767.98px) {
 
 
@@ -861,16 +862,17 @@
 }
  
 /* Large Mobile :480px. */
+
 @media only screen and  (max-width: 575.98px) {
 
-.navigation .navbar {
-	padding: 0px 0px;
-}
+section.video_sec { margin: 80px 0 0; }
+section.video_sec video { height: 100%; }
 
+.navigation .navbar { padding: 0px 0px; }
 .right-icon {
 	position: absolute;
 	top: 8px;
-	right: 60px;
+	right: 60px; 
 }
 .navigation .navbar .navbar-nav {
 	margin-right: 0px;
@@ -1624,6 +1626,12 @@
 .abt-school-video {
 	margin: 0 0 26px 0;
 }
+
+.bg-color iframe {
+    height: 100%;
+    width: 100%;
+}
+
 }
 @media only screen and (max-width: 425px) {
 	.apply-cont.apply-color-1 h3 {

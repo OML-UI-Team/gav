@@ -316,11 +316,10 @@
             </div>
         </div>
    </div>
-    <!--<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">-->
-    <!--    <source src="video/gav-presentation.mp4" type="video/mp4">-->
-    <!--</video>-->
+  
 </section> 
    
+
     <!--====== ABOUT PART START ======-->
     <section id="about-part" class="pt-65">
         <div class="container">

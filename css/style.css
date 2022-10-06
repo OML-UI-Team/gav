@@ -5506,8 +5506,7 @@ tr{
       color: #e678174f;
       margin-bottom: 10px;
   }
-  
-  section.video_sec { margin: 100px 0 0; }
+
 section.video_sec video {
     object-fit: cover;
     background-size: cover;
@@ -5524,3 +5523,4 @@ section.video_sec video {
     height:78vh;
     width:100%;
 }
+

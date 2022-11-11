@@ -78,45 +78,44 @@
                 <tbody>
                     <tr>
                     <th scope="row">1</th>
-                        <td>CBSE AFFILATION</td>
-                        <td>-</td>
+                        <td>COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF AFFILIATION, IF ANY</td>
+                        <td><a class="mail-to-link" href="pdf/UPGLTR.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">2</th>
-                        <td>TRUST CERTIFICATE</td>
-                        <td><a class="mail-to-link" href="pdf/trust-certificate.pdf" target="_blank">Link</a></td>
+                        <td>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE</td>
+                        <td><a class="mail-to-link" href="pdf/trust-deed-gift-deed.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
-                        <td>"UP GOVERNMENT NOC
-                            UP GOVERNMENT NOC 2"
+                        <td>COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUES, IF APPLICABLE BY THE STATE GOVT/UT
                         </td>
-                        <td><a class="mail-to-link" href="pdf/UP GOVERNMENT NOC UP GOVERNMENT NOC 2.pdf" target="_blank">Link</a></td>
+                        <td><a class="mail-to-link" href="pdf/noc.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
-                        <td>RECOGNITION CERTIFICATE</td>
-                        <td><a class="mail-to-link" href="pdf/recognition-Certificate.pdf" target="_blank">Link</a></td>
+                        <td>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT. 2009 AND ITS RENEWAL IF APPLICABLE</td>
+                        <td><a class="mail-to-link" href="pdf/rte.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">5</th>
-                        <td>SCHOOL BUILDING NOC</td>
-                        <td><a class="mail-to-link" href="pdf/school-building-certificate.pdf" target="_blank">Link</a></td>
+                        <td>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE</td>
+                        <td><a class="mail-to-link" href="pdf/bsc.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">6</th>
-                        <td>FIRE CERTIFICATE</td>
-                        <td><a class="mail-to-link" href="pdf/Fire-certificate.pdf" target="_blank">Link</a></td>
+                        <td>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</td>
+                        <td><a class="mail-to-link" href="pdf/fsc.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">7</th>
-                        <td>SCHOOL AFFILATION</td>
-                        <td>-</td>
+                        <td>COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION</td>
+                        <td><a class="mail-to-link" href="pdf/self-certificate.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">8</th>
-                        <td>WATER, HEALTH AND SANITATION CERTIFICATED</td>
-                        <td><a class="mail-to-link" href="pdf/water-testing-report.pdf" target="_blank">Link</a></td>
+                        <td>COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES</td>
+                        <td><a class="mail-to-link" href="pdf/sdw.pdf" target="_blank">Link</a></td>
                     </tr>
                 </tbody>
             </table>
@@ -140,27 +139,27 @@
                     <tr>
                     <th scope="row">1</th>
                         <td>FEE STRUCTURE OF THE SCHOOL</td>
-                        <td><a class="mail-to-link" href="pdf/fees-structure-2022-23.pdf" target="_blank">Link</a></td>
+                        <td><a class="mail-to-link" href="pdf/fee.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">2</th>
                         <td>ANNUAL ACADEMIC CALENDAR</td>
-                        <td><a class="mail-to-link" href="pdf/annual-academic-calendar-22-23.xlsx" target="_blank">Link</a></td>
+                        <td><a class="mail-to-link" href="pdf/aac.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
                         <td>LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)</td>
-                        <td><a class="mail-to-link" href="pdf/list-of-school-management-committee-(smc).pdf" target="_blank">Link</a></td>
+                        <td><a class="mail-to-link" href="pdf/smc.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
                         <td>LIST OF PARENTS TEACHERS ASSOCIATION (PTA) MEMBERS</td>
-                        <td>-</td>
+                        <td><a class="mail-to-link" href="pdf/pta.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">5</th>
-                        <td>"LAST THREE-YEAR RESULT OF THE BOARD EXAMINATION AS PER APPLICABILITY"</td>
-                        <td>NA</td>
+                        <td>LAST THREE-YEAR RESULT OF THE BOARD EXAMINATION AS PER APPLICABILITY</td>
+                        <td><a class="mail-to-link" href="pdf/LTYR.pdf" target="_blank">Link</a></td>
                     </tr>
                 </tbody>
             </table>
@@ -277,12 +276,12 @@
                     <tr>
                     <th scope="row">1</th>
                         <td>PRINCIPAL</td>
-                        <td>1</td>
+                        <td>Dr. Poonam Minhas</td>
                     </tr>
                     <tr>
                         <th rowspan="4" scope="row">2</th>
                         <td>TOTAL NO. OF TEACHERS</td>
-                        <td>38</td>
+                        <td>34</td>
                         <!-- <td colspan="2">
                             <table class="w-100">
                                 <tr class="table-borderless">
@@ -306,21 +305,21 @@
                         <!-- <td><a class="mail-to-link" href="#" target="_blank">Link</a></td> -->
                     </tr>
                     <tr>
-                        <td>o PGT</td>
+                        <td>PGT</td>
                         <td>0</td>
                     </tr>
                     <tr>
-                        <td>o TGT</td>
-                        <td>7</td>
+                        <td>TGT</td>
+                        <td>8</td>
                     </tr>
                     <tr>
-                        <td>o PRT</td>
-                        <td>23</td>
+                        <td>PRT</td>
+                        <td>26</td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
                         <td>TEACHERS SECTION RATIO</td>
-                        <td>1.5</td>
+                        <td>1.5:1</td>
                     </tr>
                     <tr>
                         <th scope="row">4</th>
@@ -330,8 +329,7 @@
                     <tr>
                         <th scope="row">5</th>
                         <td>DETAILS OF COUNSELLOR AND WELNESS TEACHER</td>
-                        <td>"Deepika Singh
-                            Post Graduate in Nursing"
+                        <td>Ms. Gauri Gupta
                         </td>
                     </tr>
                 </tbody>
@@ -398,9 +396,8 @@
                     <tr>
                         <th scope="row">7</th>
                         <td>
-                            <a class="mail-to-link"  href="https://www.youtube.com/watch?v=5rA-hwq_WWs" target="_blank">Gyan Anant Vidyalaya | Mobius Foundation</a><!--"LINK OF YOUTUBE VIDEO OF THE INSPECTION OF SCHOOLCOVERING THE INFRASTRUCTURE
-OF THE SCHOOL"--></td>
-                        <td>FACEBOOK LINK IS NOT APPROPRIATE KINDLY CHECK </td>
+                            <a class="mail-to-link"  href="#" target="_blank">LINK OF YOUTUBE VIDEO OF THE INSPECTION OF SCHOOLCOVERING THE INFRASTRUCTURE OF THE SCHOOL</a></td>
+                        <td></td>
                     </tr>
                 </tbody>
             </table>

@@ -12,12 +12,6 @@
     <link rel="stylesheet" href="css/slick.css">
     <!--====== Animate css ======-->
     <link rel="stylesheet" href="css/animate.css">
-    <!--====== Nice Select css ======-->
-    <!-- <link rel="stylesheet" href="css/nice-select.css"> -->
-    <!--====== Nice Number css ======-->
-    <!-- <link rel="stylesheet" href="css/jquery.nice-number.min.css"> -->
-    <!--====== Magnific Popup css ======-->
-    <!-- <link rel="stylesheet" href="css/magnific-popup.css"> -->
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!--====== Fontawesome css ======-->

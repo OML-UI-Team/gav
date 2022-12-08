@@ -138,7 +138,7 @@
             </div> 
         </div> 
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner8.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner8.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -148,7 +148,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner9.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner9.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -158,7 +158,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner10.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner10.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -168,7 +168,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner11.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner11.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -178,7 +178,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner12.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner12.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -188,7 +188,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner13.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner13.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -198,7 +198,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner14.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner14.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">
@@ -208,7 +208,7 @@
             </div> 
         </div>
 
-        <div class="single-slider bg_cover pt-150" style="background-image: url(images/Banner15.jpg)">
+        <div class="single-slider bg_cover pt-150" style="background-image: url(images/banner15.jpg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-9">

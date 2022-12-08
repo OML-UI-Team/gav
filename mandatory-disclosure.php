@@ -5,6 +5,36 @@
     <!--====== TABLE PART START ======-->
 
     <!--====== TABLE PART ENDS ======-->
+    <section id="page-banner" class="pt-105 pb-110 bg_cover" data-overlay="8" style="background-image: url(images/page-banner-1.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="page-banner-cont">
+                        <h2>Mandatory Disclosure</h2>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Mandatory Disclosure</li>
+                            </ol>
+                        </nav>
+                    </div>  <!-- page banner cont -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                    <h2 class="mt5 mb2">Mandatory Public Disclosure</h2>
+                    <a data-animation="fadeInUp" data-delay="1.6s" class="main-btn" href="pdf/mpd.pdf" target="_blank" tabindex="0">VIEW/DOWNLOAD</a>
+                    </div>
+                </div>
+            
+           
+            </div>
+    
+    
+
     <section class="genral-information-table bg-very-light-orange py-5">
         <!-- <div class=""> -->
             <div class="container">
@@ -83,8 +113,8 @@
                     </tr>
                     <tr>
                         <th scope="row">2</th>
-                        <td>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE</td>
-                        <td><a class="mail-to-link" href="pdf/trust-deed-gift-deed.pdf" target="_blank">Link</a></td>
+                        <td>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE </td>
+                        <td><a class="mail-to-link" href="pdf/deed.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
@@ -109,8 +139,8 @@
                     </tr>
                     <tr>
                         <th scope="row">7</th>
-                        <td>COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION</td>
-                        <td><a class="mail-to-link" href="pdf/self-certificate.pdf" target="_blank">Link</a></td>
+                        <td>COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF CERTIFICATION BY SCHOOL</td>
+                        <td><a class="mail-to-link" href="pdf/slf.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">8</th>
@@ -144,7 +174,7 @@
                     <tr>
                         <th scope="row">2</th>
                         <td>ANNUAL ACADEMIC CALENDAR</td>
-                        <td><a class="mail-to-link" href="pdf/aac.pdf" target="_blank">Link</a></td>
+                        <td><a class="mail-to-link" href="pdf/acc.pdf" target="_blank">Link</a></td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
@@ -281,7 +311,7 @@
                     <tr>
                         <th rowspan="4" scope="row">2</th>
                         <td>TOTAL NO. OF TEACHERS</td>
-                        <td>34</td>
+                        <td>33</td>
                         <!-- <td colspan="2">
                             <table class="w-100">
                                 <tr class="table-borderless">
@@ -310,7 +340,7 @@
                     </tr>
                     <tr>
                         <td>TGT</td>
-                        <td>8</td>
+                        <td>7</td>
                     </tr>
                     <tr>
                         <td>PRT</td>
@@ -324,13 +354,12 @@
                     <tr>
                         <th scope="row">4</th>
                         <td>DETAILS OF SPECIAL EDUCATOR</td>
-                        <td>1</td>
+                        <td>Ms. Gauri Gupta</td>
                     </tr>
                     <tr>
                         <th scope="row">5</th>
                         <td>DETAILS OF COUNSELLOR AND WELNESS TEACHER</td>
-                        <td>Ms. Gauri Gupta
-                        </td>
+                        <td>Ms. Shubhangi Chauhan</td>
                     </tr>
                 </tbody>
             </table>
@@ -396,8 +425,8 @@
                     <tr>
                         <th scope="row">7</th>
                         <td>
-                            <a class="mail-to-link"  href="#" target="_blank">LINK OF YOUTUBE VIDEO OF THE INSPECTION OF SCHOOLCOVERING THE INFRASTRUCTURE OF THE SCHOOL</a></td>
-                        <td></td>
+                            THE INFRASTRUCTURE OF THE SCHOOL</td>
+                        <td><a class="mail-to-link"  href="https://www.youtube.com/watch?v=DlWQiJOmmqs" target="_blank">Link</a></td>
                     </tr>
                 </tbody>
             </table>
